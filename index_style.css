@@ -13,7 +13,7 @@ html {
   padding-top: 40px;
 }
 
-#terra{
+#first{
   position: fixed;
   left: 100px;
   top: 320px;
@@ -23,7 +23,7 @@ html {
   border: none;
   }
 
-#hot{
+#second{
   position: fixed;
   top: 320px;
   left: 400px;
@@ -33,7 +33,7 @@ html {
   border: none;
   }
 
-#chanberry{
+#third{
   position: fixed;
   top: 320px;
   left: 700px;
@@ -43,7 +43,7 @@ html {
   border: none;
   }
 
-#floppy{
+#fourth{
   position: fixed;
   top: 330px;
   left: 1000px;
