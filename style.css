@@ -4,6 +4,11 @@ body {
   width: 100%;
 }
 
+#fig {
+  color: #ffffff;
+  padding-right: 40px;
+}
+
 #hey {
   color: #fff;
   font-weight: 600;
